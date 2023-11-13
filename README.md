@@ -59,14 +59,14 @@
         <a href="https://github.com/Yuno-Liu/Tampermonkey/raw/main/src/GBJM_RedmineMap.user.js"><img src="https://user-images.githubusercontent.com/88981/169986095-a54f32bd-55a6-4de8-bad6-aa3b1874ce07.png" width="32"/></a>
       </td>
       <td>GBJM_Redmine 導航</td>
-      <td>Domain 轉換 IP 網址開啟</td>
+      <td>由於 Domain 無法上傳或下載需要使用 IP 網址才能下載。<br>1. 此套件功能為將 Domain 轉換 IP 網址開啟</td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/Yuno-Liu/Tampermonkey/raw/main/src/RedmineExtension.user.js"><img src="https://user-images.githubusercontent.com/88981/169986095-a54f32bd-55a6-4de8-bad6-aa3b1874ce07.png" width="32"/></a>
       </td>
       <td>Redmine 擴充功能</td>
-      <td>優化操作功能</td>
+      <td>優化操作功能<br>1. 新增圖片預覽功能<br>2. 字體調整</td>
     </tr>
   </tbody>
 </table>
