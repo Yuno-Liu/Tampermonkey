@@ -61,6 +61,13 @@
       <td>GBJM_Redmine 導航</td>
       <td>Domain 轉換 IP 網址開啟</td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Yuno-Liu/Tampermonkey/raw/main/src/RedmineExtension.user.js"><img src="https://user-images.githubusercontent.com/88981/169986095-a54f32bd-55a6-4de8-bad6-aa3b1874ce07.png" width="32"/></a>
+      </td>
+      <td>GBJM_Redmine 導航</td>
+      <td>Domain 轉換 IP 網址開啟</td>
+    </tr>
   </tbody>
 </table>
 
